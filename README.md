@@ -1,0 +1,2 @@
+# Classificiation-Academic-Success-Competition
+This repository is dedicated to the development of machine learning models that will be used in Kaggle's Classification with an Academic Dataset
